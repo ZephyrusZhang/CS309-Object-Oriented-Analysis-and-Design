@@ -1,4 +1,3 @@
-[submodule "Course Project"]
-    path = Course Project
-    url = https://github.com/anshangPro/CS309-OOAD.git
-    branch = main
+[submodule "CS309-OOAD"]
+	path = CS309-OOAD
+	url = git@github.com:anshangPro/CS309-OOAD.git
